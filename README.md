@@ -5,3 +5,5 @@ Integrantes:_Valentina Rodríguez
             _Analía Predrozo
             _Guillermo Godoy
             _Franco Culasso
+            -PRESENTES
+            _Guillermo Godoy
